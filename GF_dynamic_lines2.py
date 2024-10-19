@@ -41,7 +41,7 @@ car,bicycle,scooter"""
 
 # Обновляем отображения для ComfyUI
 NODE_CLASS_MAPPINGS = {
-    "GF_Node_Dynamic_Lines2": GF_Node_Dynamic_Lines2
+    "GF_Node_Dynamic_Lines2": GF_Node_Dynamic_Lines2  
 }
 
 NODE_DISPLAY_NAME_MAPPINGS = {
